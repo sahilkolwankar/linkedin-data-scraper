@@ -3,5 +3,5 @@
 search_query = 'site:linkedin.com/in/ AND "python developer" AND "London"'
 file_name = 'public/results_file.csv'
 
-linkedin_username = 'sahilkolwankar@gmail.com'
-linkedin_password = 'napoleon1015800'
+linkedin_username = ''
+linkedin_password = ''
